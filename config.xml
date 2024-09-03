@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+    <multicast_address>224.0.0.1</multicast_address>
+    <multicast_port>3000</multicast_port>
+    <publish_rate>1000</publish_rate>
+    <max_message_size>512</max_message_size>
+</Config>
